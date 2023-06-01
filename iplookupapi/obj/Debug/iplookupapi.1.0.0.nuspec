@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>iplookupapi</id>
+    <version>1.0.0</version>
+    <title>Iplookupapi Api</title>
+    <authors>Dominik Kukacka</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>iplookupapi-icon.png</icon>
+    <readme>README.md</readme>
+    <projectUrl>https://iplookupapi.com/</projectUrl>
+    <description>This client library enables working with the Iplookupapi API - https://iplookupapi.com/
+      Register here for an Apikey to use the API - https://app.iplookupapi.com/register
+      See Github repository here - https://github.com/everapihq/iplookupapi-dotnet</description>
+    <copyright>Copyright © Everapi GmbH 2022</copyright>
+    <tags>Ip Iplookupapi Api Ipcheck IP address converter IPv4 IPv6</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/andreasaltheimer/apps/packages/iplookupapi-dotnet/iplookupapi/bin/Debug/netstandard2.1/iplookupapi.dll" target="lib/netstandard2.1/iplookupapi.dll" />
+    <file src="/Users/andreasaltheimer/apps/packages/iplookupapi-dotnet/iplookupapi/bin/Debug/netstandard2.1/iplookupapi.xml" target="lib/netstandard2.1/iplookupapi.xml" />
+    <file src="/Users/andreasaltheimer/apps/packages/iplookupapi-dotnet/LICENSE.md" target="LICENSE.md" />
+    <file src="/Users/andreasaltheimer/apps/packages/iplookupapi-dotnet/iplookupapi.png" target="iplookupapi.png" />
+    <file src="/Users/andreasaltheimer/apps/packages/iplookupapi-dotnet/iplookupapi-icon.png" target="iplookupapi-icon.png" />
+    <file src="/Users/andreasaltheimer/apps/packages/iplookupapi-dotnet/README.md" target="README.md" />
+  </files>
+</package>

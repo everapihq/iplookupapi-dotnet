@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ipbase
+build_property.ProjectDir = /Users/benediktstoy/Development/ruby/ipbase-dotnet/ipbase/

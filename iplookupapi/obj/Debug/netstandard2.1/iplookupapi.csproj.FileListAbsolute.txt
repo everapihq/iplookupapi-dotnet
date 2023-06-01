@@ -1,0 +1,12 @@
+/Users/andreasaltheimer/apps/packages/iplookupapi-dotnet/iplookupapi/bin/Debug/netstandard2.1/iplookupapi.deps.json
+/Users/andreasaltheimer/apps/packages/iplookupapi-dotnet/iplookupapi/bin/Debug/netstandard2.1/iplookupapi.dll
+/Users/andreasaltheimer/apps/packages/iplookupapi-dotnet/iplookupapi/bin/Debug/netstandard2.1/iplookupapi.pdb
+/Users/andreasaltheimer/apps/packages/iplookupapi-dotnet/iplookupapi/bin/Debug/netstandard2.1/iplookupapi.xml
+/Users/andreasaltheimer/apps/packages/iplookupapi-dotnet/iplookupapi/obj/Debug/netstandard2.1/iplookupapi.csproj.AssemblyReference.cache
+/Users/andreasaltheimer/apps/packages/iplookupapi-dotnet/iplookupapi/obj/Debug/netstandard2.1/iplookupapi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreasaltheimer/apps/packages/iplookupapi-dotnet/iplookupapi/obj/Debug/netstandard2.1/iplookupapi.AssemblyInfoInputs.cache
+/Users/andreasaltheimer/apps/packages/iplookupapi-dotnet/iplookupapi/obj/Debug/netstandard2.1/iplookupapi.AssemblyInfo.cs
+/Users/andreasaltheimer/apps/packages/iplookupapi-dotnet/iplookupapi/obj/Debug/netstandard2.1/iplookupapi.csproj.CoreCompileInputs.cache
+/Users/andreasaltheimer/apps/packages/iplookupapi-dotnet/iplookupapi/obj/Debug/netstandard2.1/iplookupapi.dll
+/Users/andreasaltheimer/apps/packages/iplookupapi-dotnet/iplookupapi/obj/Debug/netstandard2.1/iplookupapi.xml
+/Users/andreasaltheimer/apps/packages/iplookupapi-dotnet/iplookupapi/obj/Debug/netstandard2.1/iplookupapi.pdb

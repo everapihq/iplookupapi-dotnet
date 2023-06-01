@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Ipbase</id>
+    <version>1.0.2</version>
+    <title>Ipbase Api</title>
+    <authors>Benedikt Stoy</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>ipbase-icon.png</icon>
+    <readme>README.md</readme>
+    <projectUrl>https://ipbase.com/</projectUrl>
+    <description>This client library enables working with the Ipbase API - https://ipbase.com/
+      Register here for an Apikey to use the API - https://app.currencyapi.com/register
+      See Github repository here - https://github.com/everapihq/ipbase-dotnet</description>
+    <copyright>Copyright © Everapi GmbH 2022</copyright>
+    <tags>Ip Ipbase Api Ipcheck IP address converter IPv4 IPv6</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/benediktstoy/Development/ruby/ipbase-dotnet/ipbase/bin/Debug/netstandard2.1/ipbase.pdb" target="lib/netstandard2.1/ipbase.pdb" />
+  </files>
+</package>
